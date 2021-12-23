@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "209928036018",
+    "project_id": "famoussaying-163fe",
+    "storage_bucket": "famoussaying-163fe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:209928036018:android:0c33119f38c571542733ab",
+        "android_client_info": {
+          "package_name": "com.example.proj10_famoussaying"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "209928036018-25nsn3m71nbep7d67lbave95tbsmb3el.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKGgb6iioj1aD4JTPZvX8IKonfGjJGJcI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "209928036018-25nsn3m71nbep7d67lbave95tbsmb3el.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
